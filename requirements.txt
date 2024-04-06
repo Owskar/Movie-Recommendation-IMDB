@@ -1,0 +1,6 @@
+numpy==1.21.6
+pickleshare==0.7.5
+requests==2.31.0
+streamlit==1.2.0
+streamlit-option-menu==0.3.2
+pandas==1.3.5
