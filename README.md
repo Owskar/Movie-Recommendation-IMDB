@@ -1,8 +1,7 @@
-# Movie-Recommendation-IMDB
+<h1 align="center" id="title">Movie Recommender System</h1>
 
+<p align="center"><img src="https://github.com/Owskar/Movie-Recommendation-IMDB/blob/main/movie.jpg" alt="project-image"></p>
 
-<h2> [Project live link](https://movie-recommendation-system-owskar.streamlit.app/)</h2><br><br>
+<h2>🚀 Demo</h2>
 
-
-![alt text](https://github.com/Owskar/Movie-Recommendation-IMDB/blob/main/movie.jpg)
-
+[https://movie-recommendation-system-owskar.streamlit.app/](https://movie-recommendation-system-owskar.streamlit.app/)
