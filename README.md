@@ -1,7 +1,7 @@
 # Movie-Recommendation-IMDB
 
 
-<h2> [Project live link]</h2>(https://movie-recommendation-system-owskar.streamlit.app/)<br><br>
+<h2> [Project live link]x(https://movie-recommendation-system-owskar.streamlit.app/)</h2><br><br>
 
 
 ![alt text](https://github.com/Owskar/Movie-Recommendation-IMDB/blob/main/movie.jpg)
