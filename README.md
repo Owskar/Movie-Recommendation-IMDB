@@ -23,7 +23,8 @@
 <h2>📑 Data set :</h2><br>
 Kaggle Detaset used :<br>
 <ol>
- <li> <a href="https://www.kaggle.com/code/rounakbanik/movie-recommender-systems" target="_blank">TMDB :</a> Dataset to train model</li>
+ <li> <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv" target="_blank">TMDB :</a> Dataset to train model</li>
+  
  <li> <a href="https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv" target="_blank">IMDB : </a> Dataset for poster fetching</li>
   
 </ol>
